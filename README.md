@@ -5,7 +5,7 @@
 ## Hi there 👋
 ### My name is Matthew Lew, I'm a Computer Science student from Canada 🍁.
 
-- 🎓 I'm in my 4th year of Computer Science at Toronto Metropolitan University with a minor in Cybersecurity
+- 🎓 I'm in my 4th year of Computer Science at Toronto Metropolitan University with a minor in Cybersecurity.
 - 🛠  I recently finished developing an AI-powered [resume tailoring app](https://github.com/Matthew-J-Lew/resume-tailor-app) — feel free to check it out!  
 - 🌱 Currently learning more about web development and AWS.
 - 📬 Reach me at [matthew.lew008@gmail.com](mailto:matthew.lew008@gmail.com) or shoot me a message on [LinkedIn](https://www.linkedin.com/in/matt-j-lew/)! 

@@ -110,20 +110,14 @@ Here are some of my recent projects, you can check them out on my page!
 ---
 
 ## 📊 GitHub Stats
+
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-J-Lew&layout=compact&theme=tokyonight" /></td>
+
+<!--
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Matthew-J-Lew&show_icons=true&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Matthew-J-Lew&show_icons=true&theme=tokyonight" /></td> 
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-J-Lew&layout=compact&theme=tokyonight" /></td>
   </tr>
 </table>
-
-
-<!--
-
-
-## 📊 GitHub Stats
-![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matthew-J-Lew&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-J-Lew&layout=compact)
-
 -->

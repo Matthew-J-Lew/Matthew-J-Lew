@@ -102,11 +102,24 @@
 
 </div>
 
+## 🚀 Recent Projects
+Here are some of my recent projects, you can check them out on my page!
+- 🧾 [AI-Powered Resume Tailoring App](https://github.com/Matthew-J-Lew/resume-tailor-app) – Upload your resume and job description to get personalized LaTeX and PDF versions tailored by AI!
+- 🤖 [Adult Income Machine Learning Classifier](https://github.com/Matthew-J-Lew/adult-income-classifier-ml) – Predicts if an individual’s income exceeds $50K/year from the Adult Income Census dataset!
+
+---
+
+## 📊 GitHub Stats
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Matthew-J-Lew&show_icons=true&theme=tokyonight" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matthew-J-Lew&layout=compact&theme=tokyonight" /></td>
+  </tr>
+</table>
+
 
 <!--
-## 🚀 Projects
-- 🧾 [AI-Powered Resume Tailoring App](https://github.com/Matthew-J-Lew/your-project-repo) – Upload your resume and job description to get personalized LaTeX and PDF versions tailored by AI.
-- 🎮 [Robot Shootout](https://github.com/Matthew-J-Lew/Robot-Shootout) – A 3D real-time OpenGL game featuring robot enemies, collision physics, and dynamic textures.
+
 
 ## 📊 GitHub Stats
 ![Matthew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matthew-J-Lew&show_icons=true&theme=default)

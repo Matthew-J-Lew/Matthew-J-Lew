@@ -104,8 +104,8 @@
 
 ## 🚀 Recent Projects
 Here are some of my recent projects, you can check them out on my page!
-- 🧾 [AI-Powered Resume Tailoring App](https://github.com/Matthew-J-Lew/resume-tailor-app) – Upload your resume and job description to get personalized LaTeX and PDF versions tailored by AI!
-- 🤖 [Adult Income Machine Learning Classifier](https://github.com/Matthew-J-Lew/adult-income-classifier-ml) – Predicts if an individual’s income exceeds $50K/year from the Adult Income Census dataset!
+- 🧾 [AI-Powered Resume Tailoring App](https://github.com/Matthew-J-Lew/resume-tailor-app) –  Upload your resume and job description to get personalized LaTeX resumes and cover letters tailored by AI, make your applications stand out!
+- 🤖 [Adult Income Machine Learning Classifier](https://github.com/Matthew-J-Lew/adult-income-classifier-ml) – Uses machine learning to predict if someone’s income is above $50K/year based on the Adult Income Census dataset!
 
 ---
 

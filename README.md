@@ -1,12 +1,14 @@
 
-![Image](https://github.com/user-attachments/assets/83b2699f-14f2-4f77-8707-013faf793bab)
+![Image](https://github.com/user-attachments/assets/83b2699f-14f2-4f77-8707-013faf793bab)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://matthewlew.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-j-lew/)
 
 ## Hi there 👋
 ### My name is Matthew Lew, I'm a Computer Science student from Canada 🍁.
 
-- 🎓 I'm in my 4th year of Computer Science at Toronto Metropolitan University with a minor in Cybersecurity.
-- 🛠  I recently finished developing an AI-powered [resume tailoring app](https://github.com/Matthew-J-Lew/resume-tailor-app) — feel free to check it out!  
+- 🎓 I'm in my 4th year of Computer Science at Toronto Metropolitan University, minoring in Cybersecurity.
+- 🛠 I just built and deployed my own [portfolio website](https://matthewlew.dev) to showcase my projects and experience — feel free to check it out! 
+- 🤖 I recently finished developing an AI-powered [resume tailoring app](https://github.com/Matthew-J-Lew/resume-tailor-app)!  
 - 🌱 Currently learning more about web development and AWS.
 - 📬 Reach me at [matthew.lew008@gmail.com](mailto:matthew.lew008@gmail.com) or shoot me a message on [LinkedIn](https://www.linkedin.com/in/matt-j-lew/)! 
 
